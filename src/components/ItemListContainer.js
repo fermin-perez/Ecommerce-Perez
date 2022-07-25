@@ -8,7 +8,7 @@ export const ItemListContainer = (props) => {
   return (
     <>
       <h1>{props.greeting}</h1>
-      <ItemCount stock={0} initial={1} onAdd={handleOnAdd} />
+      <ItemCount stock={10} initial={1} onAdd={handleOnAdd} />
     </>
   );
 };
