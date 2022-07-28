@@ -17,7 +17,6 @@ export const NavBar = () => {
             height="30"
             className="d-inline-block align-top"
           />
-          Xperiment
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
