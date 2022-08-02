@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/fermin-perez/Ecommerce-Perez/static/css/main.2ea9f412.css",
+    "main.js": "/fermin-perez/Ecommerce-Perez/static/js/main.084bda38.js",
+    "static/js/787.72f94a41.chunk.js": "/fermin-perez/Ecommerce-Perez/static/js/787.72f94a41.chunk.js",
+    "static/media/cart.png": "/fermin-perez/Ecommerce-Perez/static/media/cart.d714a2084570169ca1cb.png",
+    "static/media/twitter.png": "/fermin-perez/Ecommerce-Perez/static/media/twitter.d82ef0314ec82f8b06d3.png",
+    "static/media/brand.png": "/fermin-perez/Ecommerce-Perez/static/media/brand.756d87a86b912176ef05.png",
+    "static/media/facebook.png": "/fermin-perez/Ecommerce-Perez/static/media/facebook.ae2bf13385d1a639c719.png",
+    "index.html": "/fermin-perez/Ecommerce-Perez/index.html",
+    "main.2ea9f412.css.map": "/fermin-perez/Ecommerce-Perez/static/css/main.2ea9f412.css.map",
+    "main.084bda38.js.map": "/fermin-perez/Ecommerce-Perez/static/js/main.084bda38.js.map",
+    "787.72f94a41.chunk.js.map": "/fermin-perez/Ecommerce-Perez/static/js/787.72f94a41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ea9f412.css",
+    "static/js/main.084bda38.js"
+  ]
+}
