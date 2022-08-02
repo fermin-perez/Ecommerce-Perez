@@ -42,9 +42,7 @@ export const Footer = () => {
       </div>
       <div className="footer__logo">
         <div className="footer__logo-container">
-          <a href="">
-            <img src={brandLogo} alt="Xperiment Brand"></img>
-          </a>
+          <img src={brandLogo} alt="Xperiment Brand"></img>
         </div>
       </div>
       <div className="footer__author">

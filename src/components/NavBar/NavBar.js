@@ -1,35 +1,56 @@
 import "./NavBar.css";
 import brand from "../../assets/img/brand.png";
 import { CartWidget } from "../CartWidget/CartWidget";
+import { Link, NavLink } from "react-router-dom";
 
 export const NavBar = () => {
   return (
     <nav className="navbar">
       <div className="navbar__logo">
-        <a href="">
+        <Link to="/">
           <img src={brand} alt="Xperiment Brand"></img>
-        </a>
+        </Link>
       </div>
       <ul className="navbar__links">
         <li className="navbar__link">
-          <a href="" className="navbar__link--active">
+          <NavLink
+            to="/"
+            className={({ isActive }) =>
+              isActive ? "navbar__link--active" : "navbar__link--disabled"
+            }
+          >
             Inicio
-          </a>
+          </NavLink>
         </li>
         <li className="navbar__link">
-          <a href="" className="navbar__link--disabled">
+          <NavLink
+            to="category/celulares"
+            className={({ isActive }) =>
+              isActive ? "navbar__link--active" : "navbar__link--disabled"
+            }
+          >
             Celulares
-          </a>
+          </NavLink>
         </li>
         <li className="navbar__link">
-          <a href="" className="navbar__link--disabled">
+          <NavLink
+            to="category/notebooks"
+            className={({ isActive }) =>
+              isActive ? "navbar__link--active" : "navbar__link--disabled"
+            }
+          >
             Notebooks
-          </a>
+          </NavLink>
         </li>
         <li className="navbar__link">
-          <a href="" className="navbar__link--disabled">
+          <NavLink
+            to="category/tablets"
+            className={({ isActive }) =>
+              isActive ? "navbar__link--active" : "navbar__link--disabled"
+            }
+          >
             Tablets
-          </a>
+          </NavLink>
         </li>
       </ul>
       <CartWidget />
