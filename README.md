@@ -28,4 +28,4 @@ Se puede ver funcionando [Aquí.](https://fermin-perez.github.io/Ecommerce-Perez
 
 ## GIF Demo
 
-![alt text](https://github.com/fermin-perez/Ecommerce-Perez/blob/main/Xperiment.gif)
+![alt text](https://github.com/fermin-perez/Ecommerce-Perez/blob/main/xperiment.gif)
