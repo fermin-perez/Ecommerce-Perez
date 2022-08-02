@@ -24,6 +24,8 @@ La aplicación consiste en una tienda Ecommerce, donde podemos visualizar los di
 
 ## Live Demo
 
-Se puede ver funcionando [Aquí.](https://).
+Se puede ver funcionando [Aquí.](https://fermin-perez.github.io/Ecommerce-Perez/).
 
 ## GIF Demo
+
+![alt text](https://drive.google.com/file/d/1nxuPEGBahZMpAllsCTY-3JcW6Y7nmrcI/view?usp=sharing)
