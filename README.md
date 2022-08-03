@@ -28,4 +28,4 @@ Se puede ver funcionando [Aquí.](https://ecommerce-perez.vercel.app).
 
 ## GIF Demo
 
-![gif demo](https://github.com/fermin-perez/Ecommerce-Perez/blob/main/Xperiment.gif)
+![gif demo](https://github.com/fermin-perez/Ecommerce-Perez/blob/main/xperiment.gif)
