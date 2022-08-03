@@ -24,7 +24,7 @@ La aplicación consiste en una tienda Ecommerce, donde podemos visualizar los di
 
 ## Live Demo
 
-Se puede ver funcionando [Aquí.](https://ecommerce-perez.vercel.app).
+Se puede ver funcionando [Aquí](https://ecommerce-perez.vercel.app)
 
 ## GIF Demo
 
